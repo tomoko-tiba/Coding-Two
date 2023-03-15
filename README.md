@@ -44,7 +44,7 @@ Calculate the quantity of each letter separately and sort them by size. The word
 
 Code：https://github.com/tomoko-tiba/Coding-Two/blob/master/python%20challenge.ipynb
 
-## 04-PY-Pictures
+## 04-PY-Images processing
 
 <img width="533" alt="images" src="https://user-images.githubusercontent.com/41440180/225337441-77c5f7cf-882d-4835-a0f8-638533106105.png">
 
