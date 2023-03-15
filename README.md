@@ -16,6 +16,8 @@ code: https://github.com/tomoko-tiba/Coding-Two/tree/master/sineWave
 
 ## 02-OF-Boids
 
+https://user-images.githubusercontent.com/41440180/225247077-023c5e76-1899-4498-82fc-ca64847f251e.mp4
+### 
 
 "Assimilation" is a programming project based on a particle system that uses classes and inheritance to implement interactions and collision effects between different types of particles. The parent class of this project uses the Boid class provided by the instructor, with particles that are blue-green in color and have random sizes. In addition to this, I have created two subclasses, one of which is childBoid, with yellow-colored particles that inherit from the parent class with less code. I have also overridden some functions and parameters to make the animation effect of the childBoid class different from the parent class. Furthermore, I have also passed parameters between childBoid and the parent Boid class, allowing the particles of the two classes to interact with each other. The movement direction of the particles will be affected by each other, and they will collide when they intersect.
 
