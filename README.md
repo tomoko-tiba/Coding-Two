@@ -15,7 +15,7 @@ Video: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=45ce9ff5-796e-4
 code: https://github.com/tomoko-tiba/Coding-Two/tree/master/sineWave
 
 
-## 02-OF-Boids
+## 02-OF-Assimilation
 
 https://user-images.githubusercontent.com/41440180/225247077-023c5e76-1899-4498-82fc-ca64847f251e.mp4
 ### 
