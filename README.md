@@ -11,6 +11,7 @@ This piece of code is an animation based on mathematical functions, mainly using
 This work has rich color and animation changes, constantly changing and deforming, bringing users visual enjoyment and interactive fun. Users can control the effect of the animation at any time, enhancing the sense of participation and autonomy. Overall, this piece of code is a very interesting and creative interactive animation that can attract people's attention and make them feel full of fun and surprise.
 
 Video: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=45ce9ff5-796e-417e-b7df-afc600343241
+
 code: https://github.com/tomoko-tiba/Coding-Two/tree/master/sineWave
 
 
@@ -25,9 +26,28 @@ The other subclass is flowerBoid, which generates pink square-shaped particles w
 
 By using classes and inheritance, I have successfully created a unique particle system that allows particles of different types to interact with each other and collide. This design not only increases the fun of the game but also helps to gain a deeper understanding of the application of classes and inheritance in programming.
 
+video：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4fed5d63-c2cf-4e77-8dac-afc600e23ef5
+
 code: https://github.com/tomoko-tiba/Coding-Two/tree/master/boids
 
 ## 03-PY-Python Challenge
- 
+
+I conceived a code challenge based on the style of Python challenge：
+
+ ![question](https://user-images.githubusercontent.com/41440180/225327792-8e614a86-fcdb-4aac-9d26-66e058e91f8e.jpg)
+
+### snsueolnuwsfosnslnfluuerossuwflunfssnufulonfw
+
+Answering method:
+
+Calculate the quantity of each letter separately and sort them by size. The word with the highest frequency of appearance is in the first position, and so on. The resulting word is the answer.
+
+Code：https://github.com/tomoko-tiba/Coding-Two/blob/master/python%20challenge.ipynb
 
 ## 04-PY-Pictures
+
+<img width="533" alt="images" src="https://user-images.githubusercontent.com/41440180/225337441-77c5f7cf-882d-4835-a0f8-638533106105.png">
+
+I processed portrait images using the numpy library in Python and tried various styles to make the images more artistic and visually appealing.
+
+Code：https://github.com/tomoko-tiba/Coding-Two/blob/master/image%20processing%20-%20homework.ipynb
